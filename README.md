@@ -1,2 +1,2 @@
 # Dasset SDK
-`Dasset | Algobet Labs © 2018`
+`A Quarkonium Dapps SDK`
